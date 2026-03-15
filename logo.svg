@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="128" fill="#071223"/>
+  <path d="M256 62L412 140V250C412 340 346 421 256 450C166 421 100 340 100 250V140L256 62Z" fill="url(#paint0_linear)"/>
+  <path d="M256 90L388 156V248C388 323 334 390 256 417C178 390 124 323 124 248V156L256 90Z" fill="#0B1A30" stroke="#59C7FF" stroke-width="10"/>
+  <circle cx="256" cy="123" r="34" fill="#B71C1C"/>
+  <path d="M226 96C238 103 249 116 253 133" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <path d="M286 96C274 103 263 116 259 133" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <rect x="116" y="176" width="280" height="78" rx="22" fill="#12345C" stroke="#59C7FF" stroke-width="8"/>
+  <path d="M138 214H222" stroke="#FFB527" stroke-width="14" stroke-linecap="round"/>
+  <path d="M290 214H374" stroke="#59C7FF" stroke-width="14" stroke-linecap="round"/>
+  <text x="256" y="228" text-anchor="middle" fill="#F6FBFF" font-size="44" font-family="Arial, sans-serif" font-weight="900" letter-spacing="3">CRICK MOSPHERE</text>
+  <path d="M160 155L116 102" stroke="#F0C28A" stroke-width="20" stroke-linecap="round"/>
+  <path d="M352 155L396 102" stroke="#F0C28A" stroke-width="20" stroke-linecap="round"/>
+  <rect x="144" y="266" width="224" height="44" rx="20" fill="#FFB527"/>
+  <text x="256" y="294" text-anchor="middle" fill="#0B1A30" font-size="24" font-family="Arial, sans-serif" font-weight="700">ULTIMATE SPORTING DESTINATION</text>
+  <circle cx="256" cy="350" r="28" fill="#B71C1C"/>
+  <path d="M232 336C241 341 249 351 252 364" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M280 336C271 341 263 351 260 364" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="256" y1="62" x2="256" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A4B88"/>
+      <stop offset="1" stop-color="#0A1221"/>
+    </linearGradient>
+  </defs>
+</svg>
