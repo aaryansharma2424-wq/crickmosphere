@@ -543,6 +543,7 @@ img {
   }
 
   .site-header {
+    position: static;
     border-radius: 28px;
     padding: 16px;
   }
